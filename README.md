@@ -1,7 +1,7 @@
 # 💫Hi, I'm Gomolemo Precious Walaza (Lemo) 👋 
-<br><br>ICT Application Development Graduate (Cum Laude) | Advanced Diploma in ICT (completed) | Aspiring Full-Stack Software Developer | Cybersecurity & Ethical Hacking Enthusiast | Data Analytics Learner
+<br><br>ICT Application Development Graduate (Cum Laude) | Advanced Diploma in ICT (completed) | Aspiring Full-Stack Software Developer | Cybersecurity & Ethical Hacking Enthusiast | Data Analytics Learner<br>
 
-<br><br>Passionate about building end-to-end digital solutions, from concept to functional prototypes, including web applications and software systems, with secure data practices and a solid understanding of the Software Development Life Cycle (SDLC).Experienced in developing applications using Python, Java, JavaScript, TypeScript, React, Django and MySQL, with exposure to Artificial Intelligence (AI), Machine Learning (ML) and data-driven solutions.<br><br>LinkedIn: https://www.linkedin.com/in/gomolemo-precious-walaza-aa5321310/
+<br>Passionate about building end-to-end digital solutions, from concept to functional prototypes, including web applications and software systems, with secure data practices and a solid understanding of the Software Development Life Cycle (SDLC).Experienced in developing applications using Python, Java, JavaScript, TypeScript, React, Django and MySQL, with exposure to Artificial Intelligence (AI), Machine Learning (ML) and data-driven solutions.<br><br>LinkedIn: https://www.linkedin.com/in/gomolemo-precious-walaza-aa5321310/
 
 
 ## 🌐 Socials:
